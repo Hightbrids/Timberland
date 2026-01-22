@@ -17,3 +17,4 @@ The system supports user authentication, product management, and stock control.
 
 ## 📄 Notes
 This project was developed for academic and learning purposes.
+ในส่วนนี้ผมเป็นคนทำ เว็ปทั้งหมดเลย และออกแบบครนับ 
