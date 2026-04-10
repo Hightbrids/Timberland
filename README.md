@@ -1,3 +1,4 @@
+```
 🛍️ Timberland - Product Management System
 
 A simple Product Management System built with PHP for managing store inventory. This system allows users to add, edit, delete, and monitor products, including low stock alerts.
@@ -12,7 +13,7 @@ A simple Product Management System built with PHP for managing store inventory. 
 
 ## 🗂️ Project Structure
 
-```
+
 Timberland/
 │
 ├── fon/                # Font files
@@ -33,7 +34,7 @@ Timberland/
 ├── test.php            # Testing file
 │
 └── README.md
-```
+
 
 ⚙️ Technologies Used
 PHP
@@ -46,3 +47,4 @@ Filezilla
 
 📄 License
 This project is for educational purposes only.
+```
