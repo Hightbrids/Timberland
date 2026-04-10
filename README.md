@@ -10,6 +10,9 @@ A simple Product Management System built with PHP for managing store inventory. 
 📋 View product list
 ⚠️ Low stock notification
 
+## 🗂️ Project Structure
+
+```
 Timberland/
 │
 ├── fon/                # Font files
@@ -30,6 +33,7 @@ Timberland/
 ├── test.php            # Testing file
 │
 └── README.md
+```
 
 ⚙️ Technologies Used
 PHP
